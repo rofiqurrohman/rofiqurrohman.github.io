@@ -8,7 +8,8 @@ var serviceWorkerOption = {
     "/icons/icon-144x144.png",
     "/icons/icon-192x192.png",
     "/icons/icon-72x72.png",
-    "/icons/icon-96x96.png"
+    "/icons/icon-96x96.png",
+    "/images/default.jpg"
   ]
 };
         
